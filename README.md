@@ -4,3 +4,4 @@ testing my setup
 "adding a line" 
 "adding a line again" 
 “This is a line from RStudio”
+"This is a line from GitHub"
